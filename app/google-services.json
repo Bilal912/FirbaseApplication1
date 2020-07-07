@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "545076251809",
+    "firebase_url": "https://firbaseapplication-bbc0c.firebaseio.com",
+    "project_id": "firbaseapplication-bbc0c",
+    "storage_bucket": "firbaseapplication-bbc0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545076251809:android:5fb8f1cc0deb13c74c34e0",
+        "android_client_info": {
+          "package_name": "com.example.firbaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545076251809-bt8nmrc1lrn85eech81l0qe940ba695g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firbaseapplication",
+            "certificate_hash": "7452d9f7af8d209196e63d3b269df904719ca137"
+          }
+        },
+        {
+          "client_id": "545076251809-56v5o0svrf5kem66e8u5dk7hrgpv5hj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn0NZyIxNrXQl43yq8Ijrj9XIdrbTXfrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545076251809-56v5o0svrf5kem66e8u5dk7hrgpv5hj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

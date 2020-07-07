@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CityLocationActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Your Name"
+        android:layout_margin="10dp"
+        android:id="@+id/clname"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Your City Name"
+        android:inputType="none"
+        android:focusable="false"
+        android:layout_margin="10dp"
+        android:id="@+id/clcity"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Your Country Name"
+        android:inputType="none"
+        android:focusable="false"
+        android:layout_margin="10dp"
+        android:id="@+id/clcountry"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter Your Permanent Address"
+        android:layout_margin="10dp"
+        android:inputType="none"
+        android:focusable="false"
+        android:id="@+id/claddress"/>
+    <Button
+        android:id="@+id/btn_map"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Google Map"
+        android:onClick="googlemap"/>
+
+
+</LinearLayout>

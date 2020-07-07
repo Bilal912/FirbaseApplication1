@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirbaseApplication</string>
+
+    <string name="facebook_app_id">457661208501947</string>
+    <string name="fb_login_protocol_scheme">fb457661208501947</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_satilit_maps">Map</string>
+
+</resources>
+
+
